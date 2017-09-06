@@ -1,0 +1,7 @@
+name: Lil Engine Backtick Filter
+type: module
+description: Replaces backticks with code wrappers.
+package: Lil Engine
+core: 8.x
+version: 1.0
+hidden: false
